@@ -2,6 +2,7 @@
 This Android software is intended to help diabetic patients get better through several features.
 
 DiaTrack's Features include:
+
 Dashboard: for keeping track all indicative vital measures of diabetic patients and color coding each state according to their being normal (healthy) or not. These measures
            include blood pressure, glucose, BMI. BMI is automatically calculated using input weight and height.
            
